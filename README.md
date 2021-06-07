@@ -3,7 +3,7 @@ Sample for showing DialogX features on Xamarin.Forms.
 
 Tutorial:
 
-
+https://mp.weixin.qq.com/s/aViFFoSRwGz1nkxNYG6pOA
 
 QQ Group:313308215
 
